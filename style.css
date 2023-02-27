@@ -79,7 +79,7 @@ header {
     padding: 0 30px;
   }
 }
-@media only screen and (max-width: 425px) {
+@media only screen and (max-width: 450px) {
   .hamburger {
     display: block;
     cursor: pointer;
