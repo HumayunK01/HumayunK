@@ -52,6 +52,10 @@ header {
   display: flex;
 }
 
+.nav-bar ul li a i {
+  margin: 0 7px 0 0;
+}
+
 .nav-bar ul li a {
   display: block;
   color: #fefefe;
